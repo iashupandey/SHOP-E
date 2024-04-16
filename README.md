@@ -2,8 +2,6 @@ Its Fullstack ecommerce shop.
 
 Preview: 
 
-![Zrzut ekranu 2024-02-28 o 22 27 59](https://github.com/majk-code/E-commerce-store/assets/111990774/4bf459f4-0bfb-4974-9a99-d308cf3685a4)
-
 How to run this app? 
 // pull files into your vscode editor
 // go into frontend: cd frontend
